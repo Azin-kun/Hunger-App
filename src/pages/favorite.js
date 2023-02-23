@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import '../app/globals.css'
 import Link from 'next/link';
 import styles from '../style/home.module.css'
 import photo1 from '../asset/photo 1.jpg'
