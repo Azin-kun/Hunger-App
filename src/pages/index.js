@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import '../app/globals.css'
 import Link from 'next/link';
 import styles from '../style/home.module.css'
 import photo1 from '../asset/photo 1.jpg'
@@ -29,7 +30,7 @@ export default function Home() {
           <ul>
             <li><Link href="/#">Home</Link></li>
             <li><Link href="/favorite">Favorite</Link></li>
-            <li><Link href="/https://www.instagram.com/gisl.rp/">About Me</Link></li>
+            <li><Link href="/aboutme">About Me</Link></li>
           </ul>
         </div>
       </div>
