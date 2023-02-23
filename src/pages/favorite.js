@@ -30,7 +30,7 @@ export default function favorite() {
           <ul>
             <li><Link href="/#">Home</Link></li>
             <li><Link href="/favorite">Favorite</Link></li>
-            <li><Link href="/aboutme">About Me</Link></li>
+            <li><a href="https://www.instagram.com/gisl.rp/">About Me</a></li>
           </ul>
         </div>
       </div>
